@@ -1,0 +1,30 @@
+main.ing {
+    text-align: center;
+}
+input.ing {
+    background-color: orange;
+    color: white;
+}
+main.usuarios {
+    text-align: center;
+}
+input.nombre {
+    width: 200px;
+}
+input.apellido {
+    width: 200px;
+}
+main.f3 {
+    text-align: center;
+}
+h1.f3 {
+    text-align: center;
+}
+pre.f3 {
+    text-align: center;
+}
+input.f3 {
+    background-color: chartreuse; 
+    height: 50px;
+    width: 500px;
+}
